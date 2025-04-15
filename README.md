@@ -1,5 +1,7 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 15.04.2025
+## Name: G.Ramanujam
+## Reg.no: 212224240129
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
@@ -49,7 +51,8 @@ class footballplayerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot 2025-04-15 100408](https://github.com/user-attachments/assets/a9dcfc86-0320-4e11-aa45-07a04230e819)
+
 
 
 ## RESULT
